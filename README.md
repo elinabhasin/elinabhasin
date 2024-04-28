@@ -9,6 +9,6 @@ You can reach out to me on:
 <br>
 emailId: elinabhasin27@gmail.com
 <br>
-instagramUser: _elina.bhasin_
+instagramUser: __elina.bhasin__
 <br>
 linkedIn: elinabhasin
